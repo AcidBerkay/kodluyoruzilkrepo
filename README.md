@@ -3,6 +3,8 @@
 
  ---
 
+![Proje görsel](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
+
 ## Installaion
 
 Öncelikle projeyi clonlayın (Buraya sizin reponuzdan aldığınız link gelecek )
